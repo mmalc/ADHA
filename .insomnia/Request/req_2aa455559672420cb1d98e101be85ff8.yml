@@ -1,0 +1,21 @@
+_id: req_2aa455559672420cb1d98e101be85ff8
+type: Request
+parentId: fld_wrk_5fa71833c9bf4df9a4495c2be7e8c2b3a399fd4d
+modified: 1613595757997
+created: 1613595757997
+url: "{{ base_url }}/DocumentReference/{{ id }}"
+name: Retrieve DocumentReference by ID
+description: Retrieve DocumentReference by providing ID
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1613595757997
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

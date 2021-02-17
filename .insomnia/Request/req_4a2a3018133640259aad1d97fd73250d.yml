@@ -1,0 +1,21 @@
+_id: req_4a2a3018133640259aad1d97fd73250d
+type: Request
+parentId: fld_wrk_5fa71833c9bf4df9a4495c2be7e8c2b3a399fd4d
+modified: 1613595487996
+created: 1613595487996
+url: "{{ base_url }}/DocumentReference"
+name: Create DocumentReference
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1613595487996
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

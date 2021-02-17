@@ -1,0 +1,21 @@
+_id: req_26f6e3f527cd43a4bfcbc87ba03778ef
+type: Request
+parentId: fld_wrk_5fa71833c9bf4df9a4495c2be7e8c2b3a399fd4d
+modified: 1613595487982
+created: 1613595487982
+url: "{{ base_url }}/DocumentReference/{{ id }}"
+name: Remove DocumentReference by ID
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1613595487982
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

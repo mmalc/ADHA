@@ -1,0 +1,12 @@
+_id: wrk_5fa71833c9bf4df9a4495c2be7e8c2b3
+type: Workspace
+parentId: null
+modified: 1613595758026
+created: 1613595487966
+name: DocumentReferenceFHIRAPI 4.0
+description: A reference to a document of any kind for any purpose. Provides
+  metadata about the document so that the document can be discovered and
+  managed. The scope of a document is any seralized object with a mime-type, so
+  includes formal patient centric documents (CDA), cliical notes, scanned paper,
+  and non-patient specific documents like policy text.
+scope: null

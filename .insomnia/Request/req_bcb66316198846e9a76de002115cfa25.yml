@@ -1,0 +1,123 @@
+_id: req_bcb66316198846e9a76de002115cfa25
+type: Request
+parentId: fld_wrk_5fa71833c9bf4df9a4495c2be7e8c2b3a399fd4d
+modified: 1613595487990
+created: 1613595487990
+url: "{{ base_url }}/DocumentReference"
+name: Get DocumentReference
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: _text
+    disabled: true
+    value: string
+  - name: _content
+    disabled: true
+    value: string
+  - name: _id
+    disabled: true
+    value: string
+  - name: _lastUpdated
+    disabled: true
+    value: string
+  - name: _profile
+    disabled: true
+    value: string
+  - name: _query
+    disabled: true
+    value: string
+  - name: _security
+    disabled: true
+    value: string
+  - name: _source
+    disabled: true
+    value: string
+  - name: _tag
+    disabled: true
+    value: string
+  - name: identifier
+    disabled: true
+    value: string
+  - name: patient
+    disabled: true
+    value: string
+  - name: type
+    disabled: true
+    value: string
+  - name: encounter
+    disabled: true
+    value: string
+  - name: authenticator
+    disabled: true
+    value: string
+  - name: author
+    disabled: true
+    value: string
+  - name: category
+    disabled: true
+    value: string
+  - name: contenttype
+    disabled: true
+    value: string
+  - name: custodian
+    disabled: true
+    value: string
+  - name: date
+    disabled: true
+    value: string
+  - name: description
+    disabled: true
+    value: string
+  - name: event
+    disabled: true
+    value: string
+  - name: facility
+    disabled: true
+    value: string
+  - name: format
+    disabled: true
+    value: string
+  - name: language
+    disabled: true
+    value: string
+  - name: location
+    disabled: true
+    value: string
+  - name: period
+    disabled: true
+    value: string
+  - name: related
+    disabled: true
+    value: string
+  - name: relatesto
+    disabled: true
+    value: string
+  - name: relation
+    disabled: true
+    value: string
+  - name: security-label
+    disabled: true
+    value: string
+  - name: setting
+    disabled: true
+    value: string
+  - name: status
+    disabled: true
+    value: string
+  - name: subject
+    disabled: true
+    value: string
+  - name: relationship
+    disabled: true
+    value: string
+headers: []
+authentication: {}
+metaSortKey: -1613595487990
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

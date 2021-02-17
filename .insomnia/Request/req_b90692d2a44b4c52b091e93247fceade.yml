@@ -1,0 +1,27 @@
+_id: req_b90692d2a44b4c52b091e93247fceade
+type: Request
+parentId: fld_wrk_5fa71833c9bf4df9a4495c2be7e8c2b3a399fd4d
+modified: 1613595487977
+created: 1613595487977
+url: "{{ base_url }}/DocumentReference/{{ id }}/_history"
+name: Retrive DocumentReference History by ID
+description: Retrieve DocumentReference History by providing ID
+method: GET
+body: {}
+parameters:
+  - name: _since
+    disabled: true
+    value: string
+  - name: _count
+    disabled: true
+    value: string
+headers: []
+authentication: {}
+metaSortKey: -1613595487977
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

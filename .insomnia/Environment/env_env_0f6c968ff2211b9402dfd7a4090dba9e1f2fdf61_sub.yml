@@ -1,0 +1,14 @@
+_id: env_env_0f6c968ff2211b9402dfd7a4090dba9e1f2fdf61_sub
+type: Environment
+parentId: env_0f6c968ff2211b9402dfd7a4090dba9e1f2fdf61
+modified: 1613595758017
+created: 1613595488006
+name: Swagger env
+data:
+  base_path: /
+  scheme: http
+  host: hapi.fhir.org
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1613595488006
